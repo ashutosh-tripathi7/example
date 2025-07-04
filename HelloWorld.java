@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello World! from conflict- branch");
 		System.out.println("Hello World!");
 		System.out.print("Hello World!");
+		System.out.print("no change");
 	}
 
 }
